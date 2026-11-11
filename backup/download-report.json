@@ -1,0 +1,63 @@
+{
+  "pages": 151,
+  "html_ok": 151,
+  "html_failed": [],
+  "media": {
+    "ok": 878,
+    "failed": 0,
+    "bytes": 750423130
+  },
+  "assets": {
+    "ok": 1052,
+    "failed": 11,
+    "bytes": 358131631
+  },
+  "media_failures": [],
+  "asset_failures": [
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2023/02/1-1024x576.png",
+      "status": 0
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/Home1.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/img2.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/Group-17.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/d1.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/img3.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/home1img2.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/img1.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/img4.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/img6.png",
+      "status": 404
+    },
+    {
+      "url": "https://www.t-more.co.il/wp-content/uploads/2024/05/img5.png",
+      "status": 404
+    }
+  ],
+  "seconds": 30.9
+}

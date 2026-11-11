@@ -1,0 +1,94 @@
+[
+  {
+    "collection": "pages",
+    "count": 39
+  },
+  {
+    "collection": "posts",
+    "count": 34
+  },
+  {
+    "collection": "courses",
+    "count": 15
+  },
+  {
+    "collection": "jobs",
+    "count": 3
+  },
+  {
+    "collection": "pdf",
+    "count": 11
+  },
+  {
+    "collection": "products",
+    "count": 7
+  },
+  {
+    "collection": "services",
+    "count": 11
+  },
+  {
+    "collection": "workshops",
+    "count": 15
+  },
+  {
+    "collection": "media",
+    "count": 878
+  },
+  {
+    "collection": "categories",
+    "count": 8
+  },
+  {
+    "collection": "tags",
+    "count": 5
+  },
+  {
+    "collection": "menus",
+    "http": 401,
+    "body": "{\"code\":\"rest_cannot_view\",\"message\":\"\\u05d0\\u05d9\\u05df \\u05dc\\u05da \\u05d4\\u05e8\\u05e9\\u05d0\\u05d5\\u05ea \\u05dc\\u05e8\\u05d0\\u05d5\\u05ea \\u05ea\\u05e4\\u05e8\\u05d9\\u05d8\\u05d9\\u05dd.\",\"data\":{\"status\":401}}"
+  },
+  {
+    "collection": "menu-items",
+    "http": 401,
+    "body": "{\"code\":\"rest_cannot_view\",\"message\":\"\\u05d0\\u05d9\\u05df \\u05dc\\u05da \\u05d4\\u05e8\\u05e9\\u05d0\\u05d5\\u05ea \\u05dc\\u05e8\\u05d0\\u05d5\\u05ea \\u05e4\\u05e8\\u05d8\\u05d9 \\u05ea\\u05e4\\u05e8\\u05d9\\u05d8.\",\"data\":{\"status\":401}}"
+  },
+  {
+    "collection": "menu-locations",
+    "http": 401,
+    "body": "{\"code\":\"rest_cannot_view\",\"message\":\"\\u05d0\\u05d9\\u05df \\u05dc\\u05da \\u05d4\\u05e8\\u05e9\\u05d0\\u05d5\\u05ea \\u05dc\\u05e8\\u05d0\\u05d5\\u05ea \\u05de\\u05d9\\u05e7\\u05d5\\u05de\\u05d9 \\u05ea\\u05e4\\u05e8\\u05d9\\u05d8.\",\"data\":{\"status\":401}}"
+  },
+  {
+    "collection": "types",
+    "kind": "object"
+  },
+  {
+    "collection": "taxonomies",
+    "kind": "object"
+  },
+  {
+    "collection": "types_of",
+    "count": 3
+  },
+  {
+    "collection": "elementor_library",
+    "http": 401,
+    "body": "{\"code\":\"rest_forbidden\",\"message\":\"\\u05e1\\u05dc\\u05d9\\u05d7\\u05d4, \\u05d0\\u05d9\\u05df \\u05dc\\u05da \\u05d4\\u05e8\\u05e9\\u05d0\\u05d5\\u05ea \\u05dc\\u05e2\\u05e9\\u05d5\\u05ea \\u05d0\\u05ea \\u05d6\\u05d4.\",\"data\":{\"status\":401}}"
+  },
+  {
+    "collection": "navigation",
+    "count": 0
+  },
+  {
+    "extra": "colors",
+    "http": 401
+  },
+  {
+    "extra": "typography",
+    "http": 401
+  },
+  {
+    "extra": "globals",
+    "http": 401
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "source": "תפריט ראשי ופוטר כפי שמופיעים בעמוד הבית החי, 11 בנובמבר 2026",
+  "direction": "rtl",
+  "header": [
+    {"label": "עמוד הבית", "url": "https://www.t-more.co.il/"},
+    {
+      "label": "אודותינו",
+      "children": [
+        {"label": "אודותינו", "url": "https://www.t-more.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa-2/"},
+        {"label": "הצוות שלנו", "url": "https://www.t-more.co.il/our-team/"}
+      ]
+    },
+    {
+      "label": "למידה בארגונים",
+      "children": [
+        {"label": "למידה דיגיטלית לארגונים", "url": "https://www.t-more.co.il/services/%D7%9C%D7%9E%D7%99%D7%93%D7%94-%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C%D7%99%D7%AA-%D7%9C%D7%90%D7%A8%D7%92%D7%95%D7%A0%D7%99%D7%9D/"},
+        {"label": "אסטרטגיה למידה אירגונית", "url": "https://www.t-more.co.il/services/%d7%aa%d7%a4%d7%99%d7%a1%d7%aa-%d7%9c%d7%9e%d7%99%d7%93%d7%94-%d7%90%d7%a8%d7%92%d7%95%d7%a0%d7%99%d7%aa/"},
+        {"label": "הטמעת מערכות ניהול למידה (LMS)", "url": "https://www.t-more.co.il/services/%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-lms/"},
+        {"label": "מערכת LXP לארגונים", "url": "https://www.t-more.co.il/%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-lxp-%d7%9c%d7%90%d7%a8%d7%92%d7%95%d7%a0%d7%99%d7%9d/"},
+        {"label": "פיתוח מנהלים", "url": "https://www.t-more.co.il/services/%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%9e%d7%a0%d7%94%d7%9c%d7%99%d7%9d/"},
+        {"label": "סדנאות והכשרות", "url": "https://www.t-more.co.il/%d7%94%d7%a4%d7%aa%d7%a8%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9c%d7%a0%d7%95/"}
+      ]
+    },
+    {
+      "label": "למידה בחינוך",
+      "children": [
+        {"label": "ייעוץ טכנו-פדגוגי", "url": "https://www.t-more.co.il/services/%d7%99%d7%99%d7%a2%d7%95%d7%a5-%d7%98%d7%9b%d7%a0%d7%95-%d7%a4%d7%93%d7%92%d7%95%d7%92%d7%99-%d7%91%d7%9e%d7%a2%d7%a8%d7%9b%d7%95%d7%aa-%d7%97%d7%99%d7%a0%d7%95%d7%9a/"},
+        {"label": "תוכנית 720", "url": "https://www.t-more.co.il/services/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA-720/"},
+        {"label": "עולם של פתרונות", "url": "https://www.t-more.co.il/%d7%a2%d7%95%d7%9c%d7%9d-%d7%a9%d7%9c-%d7%a4%d7%aa%d7%a8%d7%95%d7%a0%d7%95%d7%aa/"},
+        {"label": "תשתיות מחשוב ורכש", "url": "https://www.t-more.co.il/services/%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%95%d7%90%d7%a4%d7%99%d7%95%d7%9f-%d7%aa%d7%a9%d7%aa%d7%99%d7%95%d7%aa-%d7%9e%d7%97%d7%a9%d7%95%d7%91/"},
+        {"label": "מיצוי משאבים", "url": "https://www.t-more.co.il/services/%d7%9e%d7%99%d7%a6%d7%95%d7%99-%d7%9e%d7%a9%d7%90%d7%91%d7%99%d7%9d/"},
+        {"label": "קורסים ופתרונות למידה – גפ\"ן", "url": "https://www.t-more.co.il/%d7%a7%d7%95%d7%a8%d7%a1%d7%99%d7%9d-%d7%95%d7%a4%d7%aa%d7%a8%d7%95%d7%a0%d7%95%d7%aa-%d7%9c%d7%9e%d7%99%d7%93%d7%94-%d7%98%d7%9b%d7%a0%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%99%d7%9d-%d7%9c%d7%a6%d7%95/"}
+      ]
+    },
+    {"label": "לומדות רגולציה", "url": "https://www.t-more.co.il/workshops/studying-regulation/"},
+    {"label": "מרכז ידע", "url": "https://www.t-more.co.il/%d7%9e%d7%a8%d7%9b%d7%96-%d7%99%d7%93%d7%a2/"},
+    {"label": "קריירה", "url": "https://www.t-more.co.il/career/"},
+    {"label": "צור קשר", "url": "https://www.t-more.co.il/contact/"}
+  ],
+  "headerActions": {
+    "phone": "03-7711388",
+    "phoneHref": "tel:037711388",
+    "facebook": "https://www.facebook.com/Tikshuv121/",
+    "linkedin": "https://www.linkedin.com/company/t-more/",
+    "whatsapp": "https://wa.me/message/W4B4UWK5MGTXB1"
+  },
+  "footer": {
+    "leadForm": {
+      "name": "***ליד | פוטר***",
+      "heading": "השאירו פרטים ונחזור אליכם",
+      "fields": ["שם", "אימייל", "טלפון", "חברה", "תפקיד בחברה"]
+    },
+    "address": "אריאל שרון 8, אור יהודה",
+    "email": "tikshuv@t-more.co.il",
+    "phone": "03-7711388",
+    "columns": [
+      {
+        "title": "תפריט",
+        "links": [
+          {"label": "עמוד הבית", "url": "https://www.t-more.co.il/"},
+          {"label": "אודות", "url": "https://www.t-more.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa-2/"},
+          {"label": "סדנאות והרצאות", "url": "https://www.t-more.co.il/%d7%a1%d7%93%d7%a0%d7%90%d7%95%d7%aa-%d7%95%d7%94%d7%a8%d7%a6%d7%90%d7%95%d7%aa/", "redirectsTo": "https://www.t-more.co.il/הפתרונות-שלנו/"},
+          {"label": "מאמרים", "url": "https://www.t-more.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/", "redirectsTo": "https://www.t-more.co.il/מרכז-ידע/"}
+        ]
+      },
+      {
+        "title": "למידה בארגונים",
+        "links": [
+          {"label": "פיתוח פתרונות למידה דיגיטליים", "url": "https://www.t-more.co.il/services/%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%a4%d7%aa%d7%a8%d7%95%d7%a0%d7%95%d7%aa-%d7%9c%d7%9e%d7%99%d7%93%d7%94-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99%d7%99%d7%9d/", "redirectsTo": "https://www.t-more.co.il/services/למידה-דיגיטלית-לארגונים/"},
+          {"label": "אסטרטגיה למידה אירגונית", "url": "https://www.t-more.co.il/services/%d7%aa%d7%a4%d7%99%d7%a1%d7%aa-%d7%9c%d7%9e%d7%99%d7%93%d7%94-%d7%90%d7%a8%d7%92%d7%95%d7%a0%d7%99%d7%aa/"},
+          {"label": "הטמעת מערכות ניהול למידה (LMS)", "url": "https://www.t-more.co.il/services/%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-lms/"},
+          {"label": "למידה דיגיטלית במוקדי השירות", "url": "https://www.t-more.co.il/workshops/%d7%9c%d7%9e%d7%99%d7%93%d7%94-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99%d7%aa-%d7%91%d7%9e%d7%95%d7%a7%d7%93%d7%99-%d7%94%d7%a9%d7%99%d7%a8%d7%95%d7%aa/"},
+          {"label": "פיתוח מנהלים", "url": "https://www.t-more.co.il/services/%d7%a4%d7%99%d7%aa%d7%95%d7%97-%d7%9e%d7%a0%d7%94%d7%9c%d7%99%d7%9d/"},
+          {"label": "סדנאות והכשרות", "url": "https://www.t-more.co.il/%d7%94%d7%a4%d7%aa%d7%a8%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9c%d7%a0%d7%95/"}
+        ]
+      },
+      {
+        "title": "למידה דיגיטלית בחינוך",
+        "links": [
+          {"label": "ייעוץ טכנו-פדגוגי", "url": "https://www.t-more.co.il/services/%d7%99%d7%99%d7%a2%d7%95%d7%a5-%d7%98%d7%9b%d7%a0%d7%95-%d7%a4%d7%93%d7%92%d7%95%d7%92%d7%99-%d7%91%d7%9e%d7%a2%d7%a8%d7%9b%d7%95%d7%aa-%d7%97%d7%99%d7%a0%d7%95%d7%9a/"},
+          {"label": "תשתיות מחשוב ורכש", "url": "https://www.t-more.co.il/services/%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%95%d7%90%d7%a4%d7%99%d7%95%d7%9f-%d7%aa%d7%a9%d7%aa%d7%99%d7%95%d7%aa-%d7%9e%d7%97%d7%a9%d7%95%d7%91/"},
+          {"label": "מיצוי משאבים", "url": "https://www.t-more.co.il/services/%d7%9e%d7%99%d7%a6%d7%95%d7%99-%d7%9e%d7%a9%d7%90%d7%91%d7%99%d7%9d/"},
+          {"label": "קורסים ופתרונות למידה", "url": "https://www.t-more.co.il/%d7%a7%d7%95%d7%a8%d7%a1%d7%99%d7%9d-%d7%95%d7%a4%d7%aa%d7%a8%d7%95%d7%a0%d7%95%d7%aa-%d7%9c%d7%9e%d7%99%d7%93%d7%94-%d7%98%d7%9b%d7%a0%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%99%d7%9d-%d7%9c%d7%a6%d7%95/"}
+        ]
+      }
+    ],
+    "copyright": "© כל הזכויות שמורות ל-T.MORE",
+    "credit": {"label": "עיצוב ופיתוח: Vivir Studio", "url": "https://www.vivir.co.il/"}
+  }
+}

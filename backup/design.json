@@ -1,0 +1,134 @@
+{
+  "fonts": [
+    {
+      "family": "var( --e-global-typography-text-font-family ), Sans-serif",
+      "count": 521
+    },
+    {
+      "family": "Assistant\", Sans-serif",
+      "count": 142
+    },
+    {
+      "family": "var( --e-global-typography-primary-font-family ), Sans-serif",
+      "count": 138
+    },
+    {
+      "family": "Noto Sans Hebrew\", Sans-serif",
+      "count": 122
+    },
+    {
+      "family": "var( --e-global-typography-accent-font-family ), Sans-serif",
+      "count": 98
+    },
+    {
+      "family": "Open Sans\", Sans-serif",
+      "count": 82
+    },
+    {
+      "family": "Heebo\", Sans-serif",
+      "count": 79
+    },
+    {
+      "family": "var( --e-global-typography-secondary-font-family ), Sans-serif",
+      "count": 58
+    },
+    {
+      "family": "Rubik\", Sans-serif",
+      "count": 5
+    },
+    {
+      "family": "Noto Sans Hebrew",
+      "count": 4
+    },
+    {
+      "family": "eicons",
+      "count": 3
+    },
+    {
+      "family": "inherit",
+      "count": 3
+    }
+  ],
+  "colors": [
+    {
+      "color": "#ffffff",
+      "count": 501
+    },
+    {
+      "color": "#000000",
+      "count": 251
+    },
+    {
+      "color": "#e84c8b",
+      "count": 44
+    },
+    {
+      "color": "#000",
+      "count": 41
+    },
+    {
+      "color": "#ec4c8a",
+      "count": 30
+    },
+    {
+      "color": "#02010112",
+      "count": 22
+    },
+    {
+      "color": "#231b5012",
+      "count": 22
+    },
+    {
+      "color": "#00000000",
+      "count": 22
+    },
+    {
+      "color": "#0e1e7c",
+      "count": 21
+    },
+    {
+      "color": "#fff",
+      "count": 19
+    },
+    {
+      "color": "#303892",
+      "count": 18
+    },
+    {
+      "color": "#f0aec7",
+      "count": 15
+    },
+    {
+      "color": "#ff0063",
+      "count": 15
+    },
+    {
+      "color": "#305479",
+      "count": 14
+    },
+    {
+      "color": "#3f444b",
+      "count": 11
+    },
+    {
+      "color": "#dc4882",
+      "count": 10
+    },
+    {
+      "color": "#dedede",
+      "count": 10
+    },
+    {
+      "color": "#d9d9d947",
+      "count": 10
+    },
+    {
+      "color": "#072439",
+      "count": 9
+    },
+    {
+      "color": "#f5f5f5",
+      "count": 9
+    }
+  ]
+}

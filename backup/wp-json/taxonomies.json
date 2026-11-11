@@ -1,0 +1,154 @@
+{
+  "category": {
+    "name": "קטגוריות",
+    "slug": "category",
+    "description": "",
+    "types": [
+      "post",
+      "services"
+    ],
+    "hierarchical": true,
+    "rest_base": "categories",
+    "rest_namespace": "wp/v2",
+    "_links": {
+      "collection": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/taxonomies"
+        }
+      ],
+      "wp:items": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/categories"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  "post_tag": {
+    "name": "תגיות",
+    "slug": "post_tag",
+    "description": "",
+    "types": [
+      "post",
+      "services"
+    ],
+    "hierarchical": false,
+    "rest_base": "tags",
+    "rest_namespace": "wp/v2",
+    "_links": {
+      "collection": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/taxonomies"
+        }
+      ],
+      "wp:items": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/tags"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  "nav_menu": {
+    "name": "תפריטים",
+    "slug": "nav_menu",
+    "description": "",
+    "types": [
+      "nav_menu_item"
+    ],
+    "hierarchical": false,
+    "rest_base": "menus",
+    "rest_namespace": "wp/v2",
+    "_links": {
+      "collection": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/taxonomies"
+        }
+      ],
+      "wp:items": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/menus"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  "wp_pattern_category": {
+    "name": "Pattern Categories",
+    "slug": "wp_pattern_category",
+    "description": "",
+    "types": [
+      "wp_block"
+    ],
+    "hierarchical": false,
+    "rest_base": "wp_pattern_category",
+    "rest_namespace": "wp/v2",
+    "_links": {
+      "collection": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/taxonomies"
+        }
+      ],
+      "wp:items": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/wp_pattern_category"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  "types_of": {
+    "name": "סוגים",
+    "slug": "types_of",
+    "description": "",
+    "types": [
+      "pdf"
+    ],
+    "hierarchical": false,
+    "rest_base": "types_of",
+    "rest_namespace": null,
+    "_links": {
+      "collection": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/taxonomies"
+        }
+      ],
+      "wp:items": [
+        {
+          "href": "https://www.t-more.co.il/wp-json/wp/v2/types_of"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

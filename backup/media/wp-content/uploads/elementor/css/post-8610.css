@@ -1,0 +1,217 @@
+.elementor-8610 .elementor-element.elementor-element-9c60f74.ob-is-breaking-bad > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-9c60f74.ob-is-breaking-bad.ob-bb-inner > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-9c60f74.ob-is-breaking-bad.ob-is-glider > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-9c60f74.ob-is-breaking-bad.ob-is-glider.ob-bb-inner > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-9c60f74.ob-is-breaking-bad.ob-bb-inner{width:100%;flex:unset;align-self:inherit;}.elementor-8610 .elementor-element.elementor-element-30e1efb.elementor-column{align-self:inherit;cursor:default;}.elementor-8610 .elementor-element.elementor-element-cb63796.ob-is-breaking-bad > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-cb63796.ob-is-breaking-bad.ob-bb-inner > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-cb63796.ob-is-breaking-bad.ob-is-glider > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-cb63796.ob-is-breaking-bad.ob-is-glider.ob-bb-inner > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-cb63796.ob-is-breaking-bad.ob-bb-inner{width:100%;flex:unset;align-self:inherit;}.elementor-8610 .elementor-element.elementor-element-1993056.elementor-column{align-self:inherit;cursor:default;}.elementor-8610 .elementor-element.elementor-element-176d57b.ob-is-breaking-bad > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-176d57b.ob-is-breaking-bad.ob-bb-inner > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-176d57b.ob-is-breaking-bad.ob-is-glider > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-176d57b.ob-is-breaking-bad.ob-is-glider.ob-bb-inner > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-176d57b.ob-is-breaking-bad.ob-bb-inner{width:100%;flex:unset;align-self:inherit;}.elementor-8610 .elementor-element.elementor-element-0c6e08f.elementor-column{align-self:inherit;cursor:default;}.elementor-8610 .elementor-element.elementor-element-6ed08d5.ob-is-breaking-bad > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-6ed08d5.ob-is-breaking-bad.ob-bb-inner > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-6ed08d5.ob-is-breaking-bad.ob-is-glider > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-6ed08d5.ob-is-breaking-bad.ob-is-glider.ob-bb-inner > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-6ed08d5.ob-is-breaking-bad.ob-bb-inner{width:100%;flex:unset;align-self:inherit;}.elementor-8610 .elementor-element.elementor-element-821e532.elementor-column{align-self:inherit;cursor:default;}.elementor-8610 .elementor-element.elementor-element-2411696.ob-is-breaking-bad > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-2411696.ob-is-breaking-bad.ob-bb-inner > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-2411696.ob-is-breaking-bad.ob-is-glider > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-2411696.ob-is-breaking-bad.ob-is-glider.ob-bb-inner > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-2411696.ob-is-breaking-bad.ob-bb-inner{width:100%;flex:unset;align-self:inherit;}.elementor-8610 .elementor-element.elementor-element-7d41aa9.elementor-column{align-self:inherit;cursor:default;}.elementor-8610 .elementor-element.elementor-element-c993efc.ob-is-breaking-bad > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-c993efc.ob-is-breaking-bad.ob-bb-inner > .elementor-container{justify-content:flex-start !important;flex-direction:row;}.elementor-8610 .elementor-element.elementor-element-c993efc.ob-is-breaking-bad.ob-is-glider > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-c993efc.ob-is-breaking-bad.ob-is-glider.ob-bb-inner > .elementor-container.swiper-vertical{flex-direction:column;}.elementor-8610 .elementor-element.elementor-element-c993efc.ob-is-breaking-bad.ob-bb-inner{width:100%;flex:unset;align-self:inherit;}.elementor-8610 .elementor-element.elementor-element-e24dbb0.elementor-column{align-self:inherit;cursor:default;}html, body{overflow-x:auto;}/* Start custom CSS *//* =========================================================
+   T.MORE GEFEN 71089 – LANDING PAGE
+   PAGE-ONLY CSS
+   Hide site header + navigation + WordPress page title
+========================================================= */
+
+
+/* =========================================================
+   1. HIDE GLOBAL WEBSITE HEADER
+========================================================= */
+
+/* Elementor Theme Builder Header */
+.elementor-location-header {
+    display: none !important;
+}
+
+
+/* Common WordPress / Theme Headers */
+header.site-header,
+header#masthead,
+#masthead,
+.site-header,
+.main-header,
+.site-header-wrapper,
+.header-wrapper,
+#site-header {
+    display: none !important;
+}
+
+
+/* =========================================================
+   2. HIDE NAVIGATION
+   fallback body.elementor-page-8610s in case navigation is outside header
+========================================================= */
+
+.main-navigation,
+.primary-navigation,
+.elementor-nav-menu--main,
+.elementor-widget-nav-menu,
+nav.elementor-nav-menu--main {
+    display: none !important;
+}
+
+
+/* =========================================================
+   3. HIDE WORDPRESS / THEME PAGE TITLE
+========================================================= */
+
+.entry-title,
+.page-title,
+.elementor-page-title,
+.elementor-heading-title.entry-title {
+    display: none !important;
+}
+
+
+/* Containers that sometimes wrap the page title */
+.page-header,
+.entry-header,
+.elementor-page-title-bar,
+.page-title-bar,
+.title-bar,
+.site-page-title {
+    display: none !important;
+}
+
+
+/* =========================================================
+   4. REMOVE EMPTY SPACE LEFT BY HEADER / PAGE TITLE
+========================================================= */
+
+html,
+body {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+
+#page,
+.site,
+.site-content,
+#content,
+.content-area,
+.site-main,
+main,
+.elementor-location-single,
+.elementor-page {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+
+/* =========================================================
+   5. REMOVE POSSIBLE THEME SPACERS
+========================================================= */
+
+.header-spacer,
+.site-header-spacer,
+.sticky-header-spacer,
+.elementor-sticky__spacer {
+    display: none !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* =========================================================
+   6. HERO STARTS IMMEDIATELY AT TOP
+========================================================= */
+
+.tm-gefen-top {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+
+.tm-gefen-top-hero {
+    margin-top: 0 !important;
+}
+
+
+/* =========================================================
+   7. DO NOT TOUCH FOOTER
+   Footer remains visible because it contains contact form
+========================================================= */
+
+.elementor-location-footer,
+footer,
+.site-footer {
+    display: block;
+}
+
+
+/* =========================================================
+   8. MOBILE
+========================================================= */
+
+@media (max-width: 700px) {
+
+    /* Hide header on mobile as well */
+
+    .elementor-location-header,
+    header.site-header,
+    header#masthead,
+    #masthead,
+    .site-header,
+    .main-header,
+    .site-header-wrapper,
+    .header-wrapper,
+    #site-header {
+        display: none !important;
+    }
+
+
+    /* Hide mobile navigation / hamburger */
+
+    .main-navigation,
+    .primary-navigation,
+    .elementor-nav-menu--main,
+    .elementor-widget-nav-menu,
+    nav.elementor-nav-menu--main {
+        display: none !important;
+    }
+
+
+    /* Hide page title */
+
+    .entry-title,
+    .page-title,
+    .elementor-page-title,
+    .elementor-heading-title.entry-title,
+    .page-header,
+    .entry-header,
+    .elementor-page-title-bar,
+    .page-title-bar,
+    .title-bar,
+    .site-page-title {
+        display: none !important;
+    }
+
+
+    /* Remove remaining spacing */
+
+    #page,
+    .site,
+    .site-content,
+    #content,
+    .content-area,
+    .site-main,
+    main,
+    .elementor-location-single,
+    .elementor-page {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+
+
+    .header-spacer,
+    .site-header-spacer,
+    .sticky-header-spacer,
+    .elementor-sticky__spacer {
+        display: none !important;
+        height: 0 !important;
+        min-height: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .tm-gefen-top,
+    .tm-gefen-top-hero {
+        margin-top: 0 !important;
+    }
+
+}/* End custom CSS */
